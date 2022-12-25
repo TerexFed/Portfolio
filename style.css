@@ -16,7 +16,7 @@ body{
 .linkw{
     color: rgba(255, 255, 255, 0.788);
     text-decoration: none;
-    font-size: 30px;
+    font-size: 28px;
 }
 .wrapper{
     display: flex;
