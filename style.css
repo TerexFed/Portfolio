@@ -20,7 +20,8 @@ body{
 }
 .wrapper{
     display: flex;
-    gap: 20px;
+    gap: 35px;
+    margin: 40px;
     background-color:rgba(255, 255, 255, 0);
     position: fixed;
     word-break:initial;
