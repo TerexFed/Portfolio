@@ -22,10 +22,10 @@ body{
     display: flex;
     gap: 35px;
     margin: 40px;
+    height: 1000px;
     background-color:rgba(255, 255, 255, 0);
     position: fixed;
     word-break:initial;
-    margin: 40px;
     writing-mode: vertical-lr;
     text-orientation:sideways-right;
 } 
